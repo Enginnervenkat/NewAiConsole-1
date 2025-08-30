@@ -15,7 +15,7 @@ namespace FirstOpenAIconsole
 
         public static async Task Main()
         {
-            string apiKey = "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";
+            string apiKey = "pplx-***"; // Replace with your actual API key
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", apiKey);
 
             // Initialize the conversation with system prompt or empty
