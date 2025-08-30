@@ -1,0 +1,15 @@
+/workspaces/NewAiConsole-1/PerplexityV1.0/obj/Debug/net8.0/PerplexityV1.0.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/NewAiConsole-1/PerplexityV1.0/obj/Debug/net8.0/PerplexityV1.0.AssemblyInfoInputs.cache
+/workspaces/NewAiConsole-1/PerplexityV1.0/obj/Debug/net8.0/PerplexityV1.0.AssemblyInfo.cs
+/workspaces/NewAiConsole-1/PerplexityV1.0/obj/Debug/net8.0/PerplexityV1.0.csproj.CoreCompileInputs.cache
+/workspaces/NewAiConsole-1/PerplexityV1.0/obj/Debug/net8.0/PerplexityV1.0.sourcelink.json
+/workspaces/NewAiConsole-1/PerplexityV1.0/bin/Debug/net8.0/PerplexityV1.0
+/workspaces/NewAiConsole-1/PerplexityV1.0/bin/Debug/net8.0/PerplexityV1.0.deps.json
+/workspaces/NewAiConsole-1/PerplexityV1.0/bin/Debug/net8.0/PerplexityV1.0.runtimeconfig.json
+/workspaces/NewAiConsole-1/PerplexityV1.0/bin/Debug/net8.0/PerplexityV1.0.dll
+/workspaces/NewAiConsole-1/PerplexityV1.0/bin/Debug/net8.0/PerplexityV1.0.pdb
+/workspaces/NewAiConsole-1/PerplexityV1.0/obj/Debug/net8.0/PerplexityV1.0.dll
+/workspaces/NewAiConsole-1/PerplexityV1.0/obj/Debug/net8.0/refint/PerplexityV1.0.dll
+/workspaces/NewAiConsole-1/PerplexityV1.0/obj/Debug/net8.0/PerplexityV1.0.pdb
+/workspaces/NewAiConsole-1/PerplexityV1.0/obj/Debug/net8.0/PerplexityV1.0.genruntimeconfig.cache
+/workspaces/NewAiConsole-1/PerplexityV1.0/obj/Debug/net8.0/ref/PerplexityV1.0.dll
