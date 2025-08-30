@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PerplexityV1.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3441eb84bec1df8715a2ec4b03446d821ddcd84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f7e7bb8b35404254f8366e3e4c617e2cf30dfce")]
 [assembly: System.Reflection.AssemblyProductAttribute("PerplexityV1.0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PerplexityV1.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
